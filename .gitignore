@@ -134,3 +134,4 @@ dist
 
 # Documentation
 .docs
+node_modules/
